@@ -11,15 +11,17 @@ As seguintes tabelas foram importadas para o BigQuery a partir dos arquivos forn
 - `Lançamentos (amount)`
 - `Informaçãoes Empresa (company)`
 - `Registros Financeiros (financial_record)`
+- `Índices e Classificações (coa)`
 
 ### 📌 Observações
-- Apenas esses três arquivos dos quatro disponíveis no Google Drive foram baixados com sucesso. O arquivo coa.csv (sobre índices e níveis de classificação) está disponível apenas em formato CSV, impossibilitando o download e também não sendo possível abrir com o Planilhas Google, o que impede a importação no BigQuery.
-- Solicitei a versão do arquivo em Google Sheets ou então o acesso para realizar o download, mas ainda não obtive retorno.
+- Todas as tabelas foram importadas a partir dos arquivos disponíveis no Google Drive.
+- O arquivo coa.csv (sobre índices e níveis de classificação) estava disponível apenas em formato CSV, impossibilitando o download e também não sendo possível abrir com o Planilhas Google, o que estava impedindo a importação no BigQuery.
+- Solicitei a versão do arquivo em Google Sheets à Tech Lead e consegui subir a tabela no BigQuery.
 - Nenhuma transformação, limpeza de dados ou junção entre tabelas foi realizada nesta etapa.
 - O objetivo desta fase foi apenas a **configuração do ambiente no BigQuery**, conforme instruções.
 
-### Prints das tabelas no Bigquery:
-![Captura de Tela 2025-05-03 às 13 31 39](https://github.com/user-attachments/assets/fa88646c-bb99-449b-8b7c-502a1330a03e)
+### Prints das tabelas no BigQuery:
+![Captura de Tela 2025-05-03 às 13 49 59](https://github.com/user-attachments/assets/da6189ca-cbed-49d6-8cae-aa338b865d15)
 
 ---
 
