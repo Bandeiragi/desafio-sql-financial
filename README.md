@@ -18,6 +18,9 @@ As seguintes tabelas foram importadas para o BigQuery a partir dos arquivos forn
 - Nenhuma transformação, limpeza de dados ou junção entre tabelas foi realizada nesta etapa.
 - O objetivo desta fase foi apenas a **configuração do ambiente no BigQuery**, conforme instruções.
 
+### Prints das tabelas no Bigquery:
+![Captura de Tela 2025-05-03 às 13 31 39](https://github.com/user-attachments/assets/fa88646c-bb99-449b-8b7c-502a1330a03e)
+
 ---
 
 
